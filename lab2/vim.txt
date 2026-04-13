@@ -1,0 +1,22 @@
+# Vim (editor di testo)
+
+**Vim** (Vi IMproved, originariamente *Vi IMitation*) è un editor di testo open source e multipiattaforma, nato per fornire una versione migliorata dell'editor di testo **vi**, creato da Bill Joy.
+
+La sua prima versione è stata scritta nel 1991 da **Bram Moolenaar**. Le versioni successive hanno aggiunto numerose funzionalità, particolarmente utili per la modifica di codice sorgente. Vim è molto diffuso tra programmatori e utenti di sistemi operativi Unix-like.
+
+Da *vi* mantiene la caratteristica di essere **modale**, ovvero di avere modalità diverse nelle quali i normali caratteri della tastiera assumono significati differenti: inserimento di testo oppure comandi.
+
+Questo permette di utilizzare l’editor senza mouse né tasti modificatori, consentendo una grande velocità di scrittura, a prezzo di una curva di apprendimento più ripida per i nuovi utenti.
+
+## Voci correlate
+
+- Emacs
+- Lista di editor HTML
+- Unix
+- vi
+
+## Collegamenti esterni
+
+- Sito ufficiale: https://www.vim.org/
+
+Contenuto tratto da https://it.wikipedia.org/w/index.php?title=Vim_(editor_di_testo)&oldid=147593836.

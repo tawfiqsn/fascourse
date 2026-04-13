@@ -1,0 +1,11 @@
+[FAS] - Lezione LAB.01 - Shell .pdf
+[FAS] - Lezione LEZ.01 - Introduzione + Shell .pdf
+directory.txt
+es01
+es02
+es04
+es05
+es06
+esempio.txt
+lab2
+prova.txt
